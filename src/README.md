@@ -24,5 +24,5 @@ The application is present in a video demo!
 (done)The configuration panel must adapt according to the type of the selected shape. Implement at least two types of shapes.
 (not done)Implement free drawing and a simple shape recognition algorithm, capable of recognizing at least lines and circles.
 
-The application is present in a video demo!
+The application is present in a video demo which is in optional package!
 ```
