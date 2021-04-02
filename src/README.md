@@ -17,3 +17,10 @@ ALL TASKS DONE!
 
 The application is present in a video demo!
 ```
+##Optional (2p)
+```
+(done)Implement a retained mode drawing and add support for deleting shapes.
+(done)Add support for drawing multiple types of components. Consider creating a new panel, containing a list of available shapes.
+(done)The configuration panel must adapt according to the type of the selected shape. Implement at least two types of shapes.
+(not done)Implement free drawing and a simple shape recognition algorithm, capable of recognizing at least lines and circles.
+```
